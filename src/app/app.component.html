@@ -1,0 +1,24 @@
+<!--The content below is only a placeholder and can be replaced.-->
+<div style="text-align:center">
+  <button
+    mat-raised-button
+    [routerLink]="['/questions', selectedLang, '1', '0']"
+  >
+    Start
+  </button>
+  <button
+    mat-raised-button
+    [routerLink]="['/questions', selectedLang, '2', '0']"
+  >
+    Join
+  </button>
+  <mat-form-field>
+    <mat-label>Sprache</mat-label>
+    <mat-select [(ngModel)]="selectedLang">
+      <mat-option *ngFor="let language of languages" [value]="language.code">
+        {{language.lang}}
+      </mat-option>
+    </mat-select>
+  </mat-form-field>
+  <router-outlet></router-outlet>
+</div>

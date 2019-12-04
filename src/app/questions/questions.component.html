@@ -1,0 +1,27 @@
+<h2>Punkte {{points}}</h2>
+<div *ngIf="key==1; then one else two"></div>
+<ng-template #one>
+  <h1>{{todo}}</h1>
+  <img [src]="imagePath" />
+  <button id="btn-bottom" mat-raised-button (click)="next()">Weiter</button>
+</ng-template>
+<ng-template #two>
+  <table>
+    <tr>
+      <td>
+        <button mat-raised-button (click)="selected(0)">{{options[0]}}</button>
+      </td>
+      <td>
+        <button mat-raised-button (click)="selected(1)">{{options[1]}}</button>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <button mat-raised-button (click)="selected(2)">{{options[2]}}</button>
+      </td>
+      <td>
+        <button mat-raised-button (click)="selected(3)">{{options[3]}}</button>
+      </td>
+    </tr>
+  </table>
+</ng-template>

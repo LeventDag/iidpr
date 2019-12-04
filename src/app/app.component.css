@@ -1,0 +1,30 @@
+ul {
+  text-align: center;
+}
+mat-form-field {
+  width: 80%;
+}
+button {
+  width: 40%;
+  padding: 5px;
+  margin: 2px;
+  background-color: #1515bf;
+  color: white;
+  font-family: "Roboto", sans-serif;
+}
+
+@media (max-width: 800px) {
+  button {
+    font-size: 1em;
+  }
+}
+@media (min-width: 801px) and (max-width: 1200px) {
+  button {
+    font-size: 1.5em;
+  }
+}
+@media (min-width: 1201px) {
+  button {
+    font-size: 2em;
+  }
+}

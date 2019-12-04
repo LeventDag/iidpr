@@ -1,0 +1,120 @@
+{
+  "name": "level1",
+  "elements": [
+    {
+      "image": "https://www.baumpflegeportal.de/wp-content/uploads/2016/05/160509_Starke-Baumtypen_Eiche-im-Seidengewand_02.jpg",
+      "tr": {
+        "todo": "Bu resimde ne görüyorsun?",
+        "answer": "Ağaç",
+        "options": ["Elma", "Ağaç", "Armut", "Tahta"]
+      },
+      "srb": {
+        "todo": "Шта видите на овој слици?",
+        "answer": "Дрво",
+        "options": ["Дрво", "Аппле", "Крушка", "дрва"]
+      },
+      "de": {
+        "todo": "Was siehst du in diesem Bild?",
+        "answer": "Baum",
+        "options": ["Baum", "Apfel", "Birne", "Holz"]
+      },
+      "en": {
+        "todo": "What do you see in this picture?",
+        "answer": "Tree",
+        "options": ["Tree", "Apple", "Pear", "Wood"]
+      }
+    },
+    {
+      "image": "https://www.heimsoeth-academy.com/wp-content/uploads/2015/11/Kinder-und-Jugend-Coaching-Heimsoeth-Academy.jpg",
+      "tr": {
+        "todo": "Fotoğrafta kaç çocuk var?",
+        "answer": "Altı",
+        "options": ["Altı", "Sekiz", "İki", "On"]
+      },
+      "srb": {
+        "todo": "Koliko djeca su na sliku?",
+        "answer": "Sest",
+        "options": ["Sest", "Osam", "Dva", "Deset"]
+      },
+      "de": {
+        "todo": "Wieviele Kinder sind auf dem Bild?",
+        "answer": "Sechs",
+        "options": ["Sechs", "Acht", "Zwei", "Zehn"]
+      },
+      "en": {
+        "todo": "How many kids are on the photo?",
+        "answer": "Six",
+        "options": ["Six", "Eight", "Two", "Ten"]
+      }
+    },
+    {
+      "image": "https://i.ytimg.com/vi/sXUN9jHLIpY/maxresdefault.jpg",
+      "tr": {
+        "todo": "Fotoğraftaki çocuk ne oynuyor?",
+        "answer": "Futbol",
+        "options": ["Basketbol", "Tenis", "Futbol", "Su topu"]
+      },
+      "srb": {
+        "todo": "Sta igra djecak na sliku?",
+        "answer": "Futbal",
+        "options": ["Basket", "Tenis", "Futbal", "Vaterpolo"]
+      },
+      "de": {
+        "todo": "Was spielt der Junge auf dem Bild?",
+        "answer": "Fußball",
+        "options": ["Basketball", "Tennis", "Fußball", "Wasserball"]
+      },
+      "en": {
+        "todo": "What is the boy on the photo playing?",
+        "answer": "Soccer",
+        "options": ["Basketball", "Tennis", "Soccer", "Waterball"]
+      }
+    },
+    {
+      "image": "https://www.chefchicaz.com/wp-content/uploads/2017/06/AdobeStock_134704156.jpeg",
+      "tr": {
+        "todo": "Resimdeki çocuklar ne?",
+        "answer": "Aşçılar",
+        "options": ["Sürücüler", "Aşçılar", "Öğretmenler", "Doktorlar"]
+      },
+      "srb": {
+        "todo": "Kakva su djeca na sliku?",
+        "answer": "Kuhari",
+        "options": ["Vozaci", "Kuhari", "Ucitelj", "Ljecnike"]
+      },
+      "de": {
+        "todo": "Was sind die Kinder auf dem Bild?",
+        "answer": "Köche",
+        "options": ["Fahrer", "Köche", "Lehrer", "Ärzte"]
+      },
+      "en": {
+        "todo": "What are the children on the picture?",
+        "answer": "Cooks",
+        "options": ["Drivers", "Cooks", "Teachers", "Doctors"]
+      }
+    },
+    {
+      "image": "https://www.kimballstock.com/images/car-stock-photos.jpg",
+      "tr": {
+        "todo": "Resimde ne var?",
+        "answer": "Araba",
+        "options": ["Araba", "Ağaç", "Kamyon", "Bisiklet"]
+      },
+      "srb": {
+        "todo": "Sta je na slici?",
+        "answer": "Auto",
+        "options": ["Auto", "Drvo", "Kamion", "Biciklo"]
+      },
+      "de": {
+        "todo": "Was ist auf dem Bild zu sehen? ",
+        "answer": "Auto",
+        "options": ["Auto", "Baum", "LKW", "Fahrrad"]
+      },
+      "en": {
+        "todo": "What is pictured?",
+        "answer": "Car",
+        "options": ["Car", "Tree", "Truck", "Bicycle"]
+      }
+    }
+  ]
+}
